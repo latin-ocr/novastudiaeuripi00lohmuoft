@@ -1,0 +1,47 @@
+[13] 317
+
+805. a b a
+b a (interi. secl.)
+a a b
+
+809. 1 21>sz
+
+C
+
+Suppl. 918. Breve chori canticum solutum, quod incipit a
+v. 918, non audeo ut exemplum afferre3 nam gravissimis laborat
+corruptelis. Forma, quae libris traditur, metro non toleratur.
+Wilamowitzius (in Comm. metr. p. 12) restituisse sibi visus est
+pristinum metrum, sed numeros effecit, quales in strophis fortasse
+reperiuntur (neque vero in SuppL, quorum cantica quam eleganter
+composita sint, modo demonstravi), non in carmine monostropho:
+
+υ-ψ-ι-υ-ι υυυυυ {xa—v—
+920. v—v—l-v—l-—
+
+-—vvv1--vv¹) 1220va—
+
+v-v—ivfflv—iw—v—i—v—lv—xa
+Neque enim in ulla fabula tam incomposita inveneris. Quare
+graviora sunt menda, quae eo difficilius sanantur, quo minus sen-
+tentiarum ordine adiuvamur.
+
+Hipp. 1142. Neque in Hipp. epodo, quae incipit inde a
+
+v. 1142, metra sine ullis salebris fluere videntur, quae tamen ab
+eodem Wilamowitzio hoc quidem 1000 omnes fere sublatae sunt,
+ita ut compositio perspicua sit. Respondent enim inter se primus
+et ultimus versus, qui tetrametri sunt iambici, deinde tres dimetri,
+qui primum sequuntur, postremo duae tripodiae dactylicae, quae
+paenultimo 1000 positae sunt. Quare figura haec est:
+
+v—v—i-vv—ivwv—i—v—
+ψ -- v - lea—v
+Ι - ψ - ,ψὴν
+ψψψψψψψψ
+{ eeeeeeee
+--υ-ι--υ-ι- υ υ-ιψ--
+
+¹) Syllaba hoc 1000 producta abhorret ab Euripidis arte metrica.
+Cf. alteram huius dissertationis partem (De trimetris iambicis).
+
